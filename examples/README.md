@@ -24,6 +24,7 @@
 | [nvidia_deep_agent](nvidia_deep_agent/) | Multi-model agent with NVIDIA Nemotron Super for research and GPU-accelerated code execution via RAPIDS |
 | [ralph_mode](ralph_mode/) | Autonomous looping pattern that runs with fresh context each iteration, using the filesystem for persistence |
 | [downloading_agents](downloading_agents/) | Shows how agents are just folders—download a zip, unzip, and run |
+| [witan-xlsx-agent](witan-xlsx-agent/) | Deep Agents CLI example for spreadsheet work with Witan's `xlsx-code-mode` skill and `pip install witan` |
 | [better-harness](better-harness/) | Eval-driven outer-loop optimization of a Deep Agents harness using the `better-harness` research artifact |
 
 Each example has its own `README` with setup instructions.
